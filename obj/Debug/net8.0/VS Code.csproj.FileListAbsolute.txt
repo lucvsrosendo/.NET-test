@@ -1,0 +1,28 @@
+C:\Users\W-10\Desktop\VS Code\bin\Debug\net8.0\VS Code.exe
+C:\Users\W-10\Desktop\VS Code\bin\Debug\net8.0\VS Code.deps.json
+C:\Users\W-10\Desktop\VS Code\bin\Debug\net8.0\VS Code.runtimeconfig.json
+C:\Users\W-10\Desktop\VS Code\bin\Debug\net8.0\VS Code.dll
+C:\Users\W-10\Desktop\VS Code\bin\Debug\net8.0\VS Code.pdb
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.AssemblyInfoInputs.cache
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.AssemblyInfo.cs
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.csproj.CoreCompileInputs.cache
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.dll
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\refint\VS Code.dll
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.pdb
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\VS Code.genruntimeconfig.cache
+C:\Users\W-10\Desktop\VS Code\obj\Debug\net8.0\ref\VS Code.dll
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.AssemblyInfoInputs.cache
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.AssemblyInfo.cs
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.csproj.CoreCompileInputs.cache
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.dll
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\refint\VS Code.dll
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.pdb
+C:\Users\W-10\Desktop\VS Code - Backup\bin\Debug\net8.0\VS Code.exe
+C:\Users\W-10\Desktop\VS Code - Backup\bin\Debug\net8.0\VS Code.deps.json
+C:\Users\W-10\Desktop\VS Code - Backup\bin\Debug\net8.0\VS Code.runtimeconfig.json
+C:\Users\W-10\Desktop\VS Code - Backup\bin\Debug\net8.0\VS Code.dll
+C:\Users\W-10\Desktop\VS Code - Backup\bin\Debug\net8.0\VS Code.pdb
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\VS Code.genruntimeconfig.cache
+C:\Users\W-10\Desktop\VS Code - Backup\obj\Debug\net8.0\ref\VS Code.dll
